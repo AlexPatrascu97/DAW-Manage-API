@@ -1,0 +1,2 @@
+﻿ALTER TABLE Carts
+DROP COLUMN UserId;

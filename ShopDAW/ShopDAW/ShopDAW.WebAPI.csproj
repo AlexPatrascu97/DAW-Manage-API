@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>ShopDAW.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191218180231_Initial.cs" />
+    <Compile Remove="Migrations\20191218180231_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20191220203024_crossfull.cs" />
+    <Compile Remove="Migrations\20191220203024_crossfull.Designer.cs" />
+    <Compile Remove="Migrations\20191220204956_cross2.cs" />
+    <Compile Remove="Migrations\20191220204956_cross2.Designer.cs" />
+    <Compile Remove="Migrations\20191220211301_crossfull.cs" />
+    <Compile Remove="Migrations\20191220211301_crossfull.Designer.cs" />
+    <Compile Remove="Migrations\20191220211908_crossfullnes.cs" />
+    <Compile Remove="Migrations\20191220211908_crossfullnes.Designer.cs" />
+    <Compile Remove="Migrations\20191220212945_crossfullness.cs" />
+    <Compile Remove="Migrations\20191220212945_crossfullness.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopDAW.Domain.EntityFramawork\ShopDAW.Domain.EntityFramework.csproj" />
+    <ProjectReference Include="..\ShopDAW.Domain\ShopDAW.Domain.csproj" />
+    <ProjectReference Include="..\ShopDAW.Services\ShopDAW.Services.csproj" />
+  </ItemGroup>
+
+</Project>

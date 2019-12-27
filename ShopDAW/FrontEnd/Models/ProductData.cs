@@ -1,0 +1,16 @@
+﻿using ShopDAW.Domain.Models.BaseModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace FrontEnd.Models
+{
+	public class ProductData: BaseEntityData
+	{
+		public string Name { get; set; }
+		public int Price { get; set; }
+		public string Description { get; set; }
+		public string Category { get; set; }
+	}
+}

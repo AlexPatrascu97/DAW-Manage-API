@@ -1,0 +1,13 @@
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Services.deps.json
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Services.dll
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Services.pdb
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Domain.dll
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Domain.pdb
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.csprojAssemblyReference.cache
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.AssemblyInfoInputs.cache
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.AssemblyInfo.cs
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.csproj.CopyComplete
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.dll
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\obj\Debug\netcoreapp3.0\ShopDAW.Services.pdb
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Domain.EntityFramework.dll
+C:\Users\Frosch\source\repos\ShopDAW\ShopDAW.Services\bin\Debug\netcoreapp3.0\ShopDAW.Domain.EntityFramework.pdb
